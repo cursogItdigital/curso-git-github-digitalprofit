@@ -50,7 +50,7 @@ cd curso-git-github-digitalprofit
 ## Colaboradores
 
 - [@programadordigit1](https://github.com/programadordigit1)
-- [@programadorgit2](https://github.com/programadorgit2)
+- [@programadordigit2](https://github.com/programadordigit2)
 
 ## Organización
 
